@@ -3,3 +3,7 @@
 
 
 ![fractal](https://user-images.githubusercontent.com/68076186/210632621-f289c52e-f7bf-4d10-a3ab-0c7a63255684.png)
+
+
+Next steps:
+- Implement Go routines to speed up rendering time via concurrency
